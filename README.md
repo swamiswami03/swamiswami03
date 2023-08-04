@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @swamiswami03
-- 👀 I’m interested in programming and machine learning
-- 🌱 I’m currently learning python and c#
-- 💞️ I’m looking to collaborate on small projects
-- 📫 How to reach me ...
+- Hi, I’m Swami
+- python, c#, java, rust, bash
+  
 
 <!---
 swamiswami03/swamiswami03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
